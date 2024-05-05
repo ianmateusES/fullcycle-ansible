@@ -1,0 +1,6 @@
+[manager]
+localhost ansible_connection=local
+
+[worker]
+node1
+node2

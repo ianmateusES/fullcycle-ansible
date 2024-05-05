@@ -1,0 +1,4 @@
+---
+# vars file for install_nginx
+var_msg: 'Vai teia!'
+url_app: 'http://localhost:3333'

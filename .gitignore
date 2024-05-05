@@ -1,0 +1,4 @@
+aws
+*.cer
+*.pem
+node_modules
